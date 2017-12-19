@@ -1,4 +1,3 @@
 # hello-world
-Beginning Python
-Hello There. I am just beginning with my python lessons.
-Goodluck!
+Hello There! I will be pushing my python codes to this
+Thanks!
