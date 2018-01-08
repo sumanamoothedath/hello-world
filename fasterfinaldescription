@@ -1,0 +1,6 @@
+This is a faster method to calculate the triangular number with over 500 divisors compared to the method i have implemented in work2.py.
+Here, it works with prime factorization. For divisor count of 1000 it takes about 20seocnds and for 500 it takes about 2.5seconds. The way it works is the number of factors that a number n has is the product of the powers of the prime factors +1
+https://www.wikihow.com/Find-How-Many-Factors-Are-in-a-Number
+The link to the technique i have used to make it significantly faster is given above.
+so, we dont find factors here and the class we have utilizes optimization techniques to find primes and the power of primes. 
+Thus, 76576500 is the first Triangle number to have over 500 divisors.
